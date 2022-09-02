@@ -2,8 +2,8 @@ import React from "react";
 import './ClassComp.css'
 
 
-class ClassComp extends React.
-Component{
+class ClassComp extends React.Component
+{
 
 
   render(){
